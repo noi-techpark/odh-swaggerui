@@ -29,7 +29,7 @@ jobs:
         X_SWAGGER_JSON: "/code/default.yml"
         X_DOC_EXPANSION: "list"
         X_DISPLAY_REQUEST_DURATION: true
-        X_QUERY_CONFIG_ENABLED: true
+        X_QUERY_CONFIG_ENABLED: false
         X_OAUTH_CLIENT_ID: "opendatahub-swagger"
 
     - name: Build docker container

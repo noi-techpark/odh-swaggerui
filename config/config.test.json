@@ -10,5 +10,5 @@
     ],
     "docExpansion": "list",
     "displayRequestDuration": true,
-    "queryConfigEnabled": true
+    "queryConfigEnabled": false
 }
